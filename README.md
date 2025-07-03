@@ -1,4 +1,4 @@
-#A Dungeon crawler window game from scratch developed in 4 months with a team of 6.
+# Dungeon crawler window game from scratch developed in 4 months with a team of 6.
 
 1. AI randomized movements from the monsters
 2. Turn based game
@@ -9,7 +9,7 @@
 7. Window based game
 8. openGl (C), C++, Games is saved by coverting data to json files. 
 
-#Synopsis
+## Synopsis
 Overworked player wakes up in the game world and the purpose is to fight off monsters. 
 
 
