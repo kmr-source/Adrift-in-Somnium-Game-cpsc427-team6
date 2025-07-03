@@ -7,7 +7,9 @@
 5. 23 different artifacts with unique effects
 6. randomly generated equipment for the hero
 7. Window based game
-8. openGl (C), C++, Games is saved by coverting data to json files. 
+8. openGl (C), C++
+9. Game data is saved by coverting data generated into json files.
+10. Json files are then read the reloaded back, when the game restarts 
 
 ## Synopsis
 Overworked player wakes up in the game world and the purpose is to fight off monsters. 
