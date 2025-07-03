@@ -55,7 +55,7 @@ The following libraries are required (some provided in `ext/`):
 - C++14-compatible compiler
 - OpenGL development libraries
 
-### Linux/macOS
+### Linux
 
 ```bash
 mkdir build
