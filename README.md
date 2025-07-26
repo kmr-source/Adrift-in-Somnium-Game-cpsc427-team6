@@ -65,6 +65,8 @@ make
 ./adrift_in_somnium
 
 
+**For more information: https://tocshi.itch.io/adrift-in-somnium**
+
 
 
 
