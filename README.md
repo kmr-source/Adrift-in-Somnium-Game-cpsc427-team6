@@ -16,6 +16,20 @@
 ## Synopsis
 Overworked player wakes up in the game world and the purpose is to fight off monsters. This is a narrative-driven game built using modern C++ and OpenGL. The game blends interactive storytelling with a 2D/3D graphics engine and features custom rendering, input, and audio systems.
 
+## The team behind the game: https://tocshi.itch.io/adrift-in-somnium
+
+https://github.com/tocshi 
+
+https://github.com/c0linw 
+
+https://github.com/jdang123 
+
+https://github.com/cliff42 
+
+https://github.com/TheEpicWatermelon 
+
+https://github.com/kmr-source
+
 ## 🚀 Features
 
 - Written in **C++14**
@@ -64,8 +78,6 @@ cmake ..
 make
 ./adrift_in_somnium
 
-
-**For more information: https://tocshi.itch.io/adrift-in-somnium**
 
 
 
